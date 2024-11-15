@@ -34,3 +34,7 @@ Build and watch for file changes:
 ```sh
 ./build.sh -pvc
 ```
+
+## Acknowledgements
+
+The LaTeX content is a slightly changed version of the [IEEE Conference Template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
