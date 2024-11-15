@@ -1,0 +1,15 @@
+{
+  "name": "Latex",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "james-yu.latex-workshop",
+        "valentjn.vscode-ltex"
+      ]
+    }
+  },
+  "remoteUser": "latex"
+}

@@ -1,0 +1,12 @@
+{
+  "ltex.additionalRules.enablePickyRules": true,
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (latexmkrc)",
+      "tools": [
+        "latexmk_rconly"
+      ]
+    }
+  ],
+  "latex-workshop.latex.outDir": "build",
+}
